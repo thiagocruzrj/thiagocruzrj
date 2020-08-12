@@ -1,4 +1,24 @@
-### Hi there 👋
+### Hi there 👋, I'm Thiago Cruz! 
+
+## :triangular_flag_on_post: Technical skills
+- Programming languages: C# <3 and Python
+- Cloud Computing: Docker, Kubernetes e Azure
+- Database / Data structure store: Mysql, SQL Server, PostgreSQL, MongoDB, Azure and Redis
+- Computational techniques: Clean Code, Solid, Unit test, Microservices and DDD
+
+## 💬 For know more about me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-cruz-07205859/)](https://www.linkedin.com/in/thiago-cruz-07205859/)
+
+![Thiago's github stats](https://github-readme-stats.vercel.app/api?username=thiagocruzrj&count_private=true&show_icons=true&theme=algolia)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/thiagocruzrj/count.svg" />
+</p>
+
+
+- Thanks for visiting, God bless you a lot. 
 
 <!--
 **thiagocruzrj/thiagocruzrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
