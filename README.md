@@ -3,7 +3,7 @@
 ## :triangular_flag_on_post: Technical skills
 - Programming languages: C# <3 and Python
 - Cloud Computing: Docker, Kubernetes e Azure
-- Database / Data structure store: Mysql, SQL Server, PostgreSQL, MongoDB, Azure and Redis
+- Database / Data structure store: Mysql, SQL Server, PostgreSQL, MongoDB and Redis
 - Computational techniques: Clean Code, Solid, Unit test, Microservices and DDD
 
 ## 💬 For know more about me:
@@ -16,9 +16,6 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/thiagocruzrj/count.svg" />
 </p>
-
-
-- Thanks for visiting, God bless you a lot. 
 
 <!--
 **thiagocruzrj/thiagocruzrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
