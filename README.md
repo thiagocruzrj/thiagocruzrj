@@ -10,9 +10,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-thiagocruzrj-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-cruz-07205859/)](https://www.linkedin.com/in/thiago-cruz-07205859/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocruzrj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Thiago's github stats](https://github-readme-stats.vercel.app/api?username=thiagocruzrj&count_private=true&show_icons=true&theme=algolia)
+![Thiago's github stats](https://github-readme-stats.vercel.app/api?username=thiagocruzrj&count_private=true&show_icons=true&theme=algolia) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocruzrj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> 
   Visitor count<br>
