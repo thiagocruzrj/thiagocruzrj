@@ -2,9 +2,9 @@
 
 ## :triangular_flag_on_post: Technical skills
 - Programming languages: C# <3 and Python
-- Cloud Computing: Docker, Kubernetes e Azure
+- DevOps/Cloud Computing: Docker, Kubernetes, Azure and AWS
 - Database / Data structure store: Mysql, SQL Server, PostgreSQL, MongoDB and Redis
-- Computational techniques: Clean Code, Solid, Unit test, Microservices and DDD
+- Computational techniques: Clean Code, Solid, Unit test, Integrated test, Microservices and DDD
 
 ## 💬 For know more about me:
 
