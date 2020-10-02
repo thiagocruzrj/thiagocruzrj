@@ -8,14 +8,14 @@
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## :runner: Talking about Personal Stuffs:
+## :runner: Talking about Personal Stuffs
 
 - 👨🏽‍💻 I’m currently working on open source private projects :laughing:;
 - 🌱 I’m currently learning gRCP, Kubernetes and Microservices Patterns; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@thiagocruz](https://www.linkedin.com/in/thiago-cruz-07205859/);
 
-## :hammer: Languages and Tools:  
+## :hammer: Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -26,7 +26,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-## 💬 For know more about me:
+## 💬 For know more about me
 
 [![GitHub Badge](https://img.shields.io/github/followers/thiagocruzrj?label=thiagocruzrj&style=for-the-badge&link=https://github.com/thiagocruzrj)](https://github.com/thiagocruzrj)
 [![LinkedIn Badge](https://img.shields.io/badge/-thiagocruzrj-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-cruz-07205859/)](https://www.linkedin.com/in/thiago-cruz-07205859/)
