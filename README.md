@@ -1,10 +1,10 @@
 ### Hi there <img alt="Waving hand emoji" src="https://github.com/OfficialMarinho/OfficialMarinho/blob/master/waving-hand-emoji-animated.gif?raw=true" width="25px">, I'm Thiago Cruz! 
 
 ## :triangular_flag_on_post: Technical skills
-- Programming languages: C# <3 and Python
-- DevOps/Cloud Computing: Docker, Kubernetes, Azure and AWS
-- Database / Data structure store: Mysql, SQL Server, PostgreSQL, MongoDB and Redis
-- Computational techniques: Clean Code, Solid, Unit test, Integrated test, Microservices and DDD
+- Programming languages: C# <3 and Python;
+- DevOps/Cloud Computing: Docker, Kubernetes, Azure and AWS;
+- Database / Data structure store: Mysql, SQL Server, PostgreSQL, MongoDB and Redis;
+- Computational techniques: Clean Code, Solid, Unit test, Integrated test, Microservices and DDD.
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -13,7 +13,7 @@
 - 👨🏽‍💻 I’m currently working on open source private projects :laughing:;
 - 🌱 I’m currently learning gRCP, Kubernetes and Microservices Patterns; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@thiagocruz](https://www.linkedin.com/in/thiago-cruz-07205859/);
+- 📫 How to reach me: [@thiagocruz](https://www.linkedin.com/in/thiago-cruz-07205859/).
 
 ## :hammer: Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
