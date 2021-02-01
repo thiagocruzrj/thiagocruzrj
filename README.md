@@ -1,4 +1,4 @@
-### Hi there <img alt="Waving hand emoji" src="https://github.com/OfficialMarinho/OfficialMarinho/blob/master/waving-hand-emoji-animated.gif?raw=true" width="25px">, I'm Thiago Cruz! 
+### Hi there, I'm Thiago Cruz! 
 
 ## :triangular_flag_on_post: Technical skills
 - Programming languages: C# <3 and Python;
