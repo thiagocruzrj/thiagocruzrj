@@ -32,8 +32,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-thiagocruzrj-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-cruz-07205859/)](https://www.linkedin.com/in/thiago-cruz-07205859/)
 [![Email Badge](https://img.shields.io/badge/contact-thagocruz@gmail.com-red?style=for-the-badge&link=https://www.linkedin.com/in/thiago-cruz-07205859//)](https://www.linkedin.com/in/thiago-cruz-07205859//)
 
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api/?username=thiagocruzrj&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocruzrj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api/?username=thiagocruzrj&include_all_commits=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocruzrj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
