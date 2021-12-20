@@ -1,4 +1,4 @@
-### Hi there, I'm Thiago Cruz! 
+### Hi there, I'm Thiago Cruz! 👋
 
 ## :triangular_flag_on_post: Technical skills
 - Programming languages: C# <3 and Python;
@@ -15,7 +15,7 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@thiagocruz](https://www.linkedin.com/in/thiago-cruz-07205859/).
 
-## :hammer: Languages and Tools
+## :hammer: Technologies
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -30,22 +30,10 @@
 
 [![GitHub Badge](https://img.shields.io/github/followers/thiagocruzrj?label=thiagocruzrj&style=for-the-badge&link=https://github.com/thiagocruzrj)](https://github.com/thiagocruzrj)
 [![LinkedIn Badge](https://img.shields.io/badge/-thiagocruzrj-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-cruz-07205859/)](https://www.linkedin.com/in/thiago-cruz-07205859/)
-[![Email Badge](https://img.shields.io/badge/contact-thagocruz@gmail.com-red?style=for-the-badge&link=https://www.linkedin.com/in/thiago-cruz-07205859//)](https://www.linkedin.com/in/thiago-cruz-07205859//)
+<a href = "mailto:thagocruz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api/?username=thiagocruzrj&include_all_commits=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocruzrj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**thiagocruzrj/thiagocruzrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/thiagocruzrj">
+  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=thiagocruzrj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocruzrj&layout=compact&langs_count=7&theme=dracula"/>
+</div>
